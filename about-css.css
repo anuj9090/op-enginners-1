@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #a9d3e3;
+    font-weight: 550;
+    font-size: large;
+  }
+  .footer {
+    margin-top: 2000px;
+    background-color: #a9d3e3;
+    color: #4c4a4a;
+    display: flex;
+    height:20%;
+   padding: 50px 20px 20px 40px;
+    
+  }

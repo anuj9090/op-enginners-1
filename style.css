@@ -1,0 +1,27 @@
+.container {
+  margin-top: 100px;
+  
+}
+.navbar {
+    background-color: #a9d3e3;
+  font-weight: 550;
+  font-size: large;
+}
+.footer {
+  margin-top: 200px;
+  background-color: #a9d3e3;
+  color: #4c4a4a;
+  display: flex;
+  height:20%;
+ padding: 50px 20px 20px 40px;
+  
+}
+.carousel-caption {
+  color: #4c4a4a;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: rgb(255 129 103 / 65%);
+  font-weight: 600;
+}
