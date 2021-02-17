@@ -1,11 +1,16 @@
 .container {
   margin-top: 100px;
-  
 }
-.navbar {
+.navbar-expand-lg navbar-light
+{
+  position: fixed;
+}
+.navbar{
+  
     background-color: #a9d3e3;
   font-weight: 550;
   font-size: large;
+  
 }
 .footer {
   margin-top: 200px;
