@@ -19,6 +19,11 @@
 .carousel-caption {
   color: #4c4a4a;
 }
+.image-center
+{
+ padding-left: 50px;
+}
+
 
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .show > .nav-link {
